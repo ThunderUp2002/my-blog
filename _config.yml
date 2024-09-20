@@ -1,18 +1,18 @@
 ## You should change each of the following fields
 ## to customize your blog
 
-title: Stat 386 Blog
-description: "This description of the blog will appear on the 'About' page." 
-author: Your name
-author_description: "This description of who you are will appear on the 'About' page." 
+title: "Asymptotic Brilliance"
+description: "This is a data science blog where I explore various topics that interest me. I will present findings, discuss my experiences with data science, and apply data science to some of my interests." 
+author: "Devan Gwynn"
+author_description: "I am a student at BYU studying statistics with an emphasis in data science and a minor in computer science. I love sports, tabletop games, and music and looking for ways to incorporate data science methods within those. I am currently involved in sports analytics research and have worked on projects in basketball and hockey but am also interested in most other sports. I am always open to discuss anything related to data science, so if you have questions or comments regarding any of my posts, feel free to reach out!" 
 
-url: https://esnt.github.io ## change this to https://yourusername.github.io
-baseurl: /another-stat386-theme ## change this to the name of your blog repository
+url: https://thunderup2002.github.io ## change this to https://yourusername.github.io
+baseurl: /my-blog ## change this to the name of your blog repository
 header_image: /assets/img/headerimg.jpg ## change your header image if you want
 
 ## Add your social media user names.  Github is required, the rest are optional
 social:
-    github:  ## required
+    github:  ThunderUp2002
     twitter: 
     facebook: 
     email: 
