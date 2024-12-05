@@ -16,7 +16,7 @@ The <a href="https://college-sports.streamlit.app/" target="_blank">app</a> was 
 3. W Volleyball
 4. W Soccer
 
-I will briefly explain the features of each tab.
+As you can see, each tab is designed to focus on a specific sport (or the overall performance). I will now briefly explain the features of each tab.
 
 #### Overall
 
@@ -30,6 +30,8 @@ Within the overall tab are three options:
   <dt>College</dt>
   <dd>Displays all team stats for the selected college</dd>
 </dl>
+
+These hierarchical options allow you to dive deeper on any level you want--whether that be looking more generally at all teams or more specifically at a single team. Using these options, you can fine-tune how much information you would like to look at.
 
 #### Football, W Volleyball, and W Soccer
 
@@ -49,7 +51,7 @@ You may recall from my last post:
 
 <blockquote>The SEC and ACC appear to be fairly balanced conferences in these sports, with less disparity in skill among their teams displayed by the roughly symmetric distribution. On the other hand, the Big Ten and Big 12 appear to be somewhat imbalanced, as can be seen by the odd bulges in their distributions.</blockquote>
 
-This also becomes evident as you look at each conference's performance across the different sports.
+While it makes sense that the Power Four conferences can be unbalanced, it makes you wonder if those pushing for a promotion/relegation system (where teams get promoted or relegated based on their performance) in college sports have a point, since that would likely rebalance the competition by sorting colleges into tiers. This also becomes evident as you look at each conference's performance across the different sports.
 
 2. Different Power Four conferences are stronger in different sports
 
